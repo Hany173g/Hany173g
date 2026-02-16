@@ -1,16 +1,31 @@
-## Hi there 👋
+# Project Name
 
-<!--
-**Hany173g/Hany173g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend REST API built with Node.js and Express.js, designed to handle core server-side logic including authentication, data management, and secure API endpoints.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features
+
+- User Authentication (JWT)
+- Role-based access control
+- CRUD operations
+- Input validation
+- Error handling
+- Secure API structure
+
+---
+
+## Tech Stack
+
+- Node.js
+- Express.js
+- MongoDB  / MySQL
+- JWT Authentication
+- Mongoose / Sequelize
+- Docker
+- Redis
+
+---
+
+## Project Structure
+
