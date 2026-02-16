@@ -1,8 +1,3 @@
-# Project Name
-
-Backend REST API built with Node.js and Express.js, designed to handle core server-side logic including authentication, data management, and secure API endpoints.
-
----
 
 ## Features
 
@@ -24,8 +19,4 @@ Backend REST API built with Node.js and Express.js, designed to handle core serv
 - Mongoose / Sequelize
 - Docker
 - Redis
-
----
-
-## Project Structure
 
