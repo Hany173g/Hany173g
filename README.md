@@ -6,11 +6,14 @@ I like working on real backend problems — authentication, background jobs, cac
 
 ---
 
-### 🚀 What I'm building
+### 🚀 Featured Project — Droply
 
-**[Droply](https://github.com/Hany173g/Droply-Backend)** — RESTful backend for a video-sharing platform, with JWT auth, BullMQ background jobs, Redis caching, and Cloudinary-based signed video streaming.
+**[Droply](https://github.com/Hany173g/Droply-Backend)** is a RESTful backend for a video-sharing platform built with Express, TypeScript, MongoDB, Redis, and BullMQ.
 
-**[AxisCloud](https://github.com/Hany173g/AxisCloud)** — Uptime monitoring SaaS API with plan-based limits (Free/Pro/Business), JWT auth, and webhook notifications. [Live demo](https://axis-cloud.vercel.app)
+- 🔐 JWT authentication (access + refresh tokens)
+- ⚙️ Background job processing with BullMQ (video uploads, notifications)
+- 🎥 Signed, expiring video URLs via Cloudinary
+- 🛡️ Rate limiting + unit/integration tests with Jest
 
 ---
 
@@ -27,3 +30,6 @@ I like working on real backend problems — authentication, background jobs, cac
 ### 📫 Reach me
 
 [LinkedIn](https://linkedin.com/in/hany-kholey-658795396) · hanykholey1@gmail.com
+
+---
+*Also building: [AxisCloud](https://github.com/Hany173g/AxisCloud) — an uptime monitoring SaaS API*
